@@ -5,7 +5,4 @@ We first re-models adjustment task for real noise images to remove the real nois
 <img src="https://github.com/JiangBoCS/Real-Noise-Image-Adjustment-Networks-for-Saliency-aware-Stylistic-Color-Retouch/blob/main/framework.png"
      alt="Picture displays an error."
      style="zoom:30%"/>
-
 <center><p>The overall framework of RNIA-Nets. RNIA-Nets has two branch structures.</p></center>
-
-![avatar](https://github.com/JiangBoCS/Real-Noise-Image-Adjustment-Networks-for-Saliency-aware-Stylistic-Color-Retouch/blob/main/framework.png)
