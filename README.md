@@ -23,6 +23,16 @@ We first re-models adjustment task for real noise images to remove the real nois
      style="zoom:30%"/>
  <center><p>Style 3.</p></center>
  
+ <img src="https://github.com/JiangBoCS/RNIA-Nets/blob/main/Noisy%20image_2_8-RNIA-Nets%20(Ours)_2_8.png"
+     alt="Picture displays an error."
+     style="zoom:30%"/>
+ <center><p>Style 4.</p></center>
+ 
+  <img src="https://github.com/JiangBoCS/RNIA-Nets/blob/main/Noisy%20image_18_7-RNIA-Nets%20(Ours)_18_7.png"
+     alt="Picture displays an error."
+     style="zoom:30%"/>
+ <center><p>Style 5.</p></center>
+ 
 
  
  
