@@ -1,6 +1,6 @@
 # Real-Noise-Image-Adjustment-Networks-for-Saliency-aware-Stylistic-Color-Retouch
 We first re-models adjustment task for real noise images to remove the real noise. Then, we further propose the Real Noise Image Adjustment Networks (RNIA-Nets) using adaptive denoise and saliency-aware stylistic color retouch.
-### The data set and model code will be released as soon as possible.
+### The dataset and code will be released as soon as possible.
 
 <img src="https://github.com/JiangBoCS/Real-Noise-Image-Adjustment-Networks-for-Saliency-aware-Stylistic-Color-Retouch/blob/main/framework.png"
      alt="Picture displays an error."
