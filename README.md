@@ -7,6 +7,12 @@ We first re-models adjustment task for real noise images to remove the real nois
      style="zoom:30%"/>
 <center><p>The overall framework of RNIA-Nets. RNIA-Nets has two branch structures.</p></center>
 
+## Multi-Faced Attention (MFA) Block with Feedback Mechanism Structure.
+<img src="https://github.com/JiangBoCS/RNIA-Nets/blob/main/Multi-Faced%20Attention%20(MFA)%20Block%20with%20Feedback%20Mechanism%20Structure.png"
+     alt="Picture displays an error."
+     style="zoom:30%"/>
+<center><p>Multi-Faced Attention (MFA) Block.</p></center>
+
 ## Experimental visual effect results
 <img src="https://github.com/JiangBoCS/RNIA-Nets/blob/main/Noisy%20image_10_3-RNIA-Nets%20(Ours)_10_3.png"
      alt="Picture displays an error."
