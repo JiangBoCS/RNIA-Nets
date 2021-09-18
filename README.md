@@ -5,6 +5,7 @@ Automatic Image Adjustment (AIA) method mainly aims to realize stylistic color r
 
 ### The dataset and code will be released as soon as possible.
 
+## Network Architecture
 <img src="https://github.com/JiangBoCS/Real-Noise-Image-Adjustment-Networks-for-Saliency-aware-Stylistic-Color-Retouch/blob/main/framework.png"
      alt="Picture displays an error."
      style="zoom:30%"/>
