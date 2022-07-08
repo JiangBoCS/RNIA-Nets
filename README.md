@@ -3,8 +3,6 @@
 
 Automatic Image Adjustment (AIA) method mainly aims to realize stylistic color retouch in images. Recent years have witnessed the unprecedented success in the learning-based AIA methods, especially Convolutional Neural Networks (CNNs). However, existing AIA methods usually handle the images without real noise from ideal scenarios, resulting in poor retouch performance when processing the real noise images. Furthermore, these AIA methods lack attentive capability in learning salient areas to perform the stylistic color retouch as human artists do. To address these problems, we first re-models adjustment task for real noise images to remove the real noise. Then, we further propose the Real Noise Image Adjustment Networks (RNIA-Nets) using adaptive denoise and saliency-aware stylistic color retouch. Specifically, an adaptive denoise mechanism pertinently predicts denoise kernel for various real noise images. The saliency-aware stylistic color retouch predicts visual salient areas to learn stylistic color mapping through a proposed Multi-faced Attention (MFA) module. Eventually, to equitably verify the effectiveness of the proposed RNIA-Nets, a new challenging benchmark dataset collected from real noise images is established. Extensive experimental results demonstrate that the proposed method can achieve favorable results on real noise image adjustment, providing a highly effective solution to the practical AIA applications.
 
-### The dataset and code will be released as soon as possible.
-
 ## Network Architecture
 <img src="https://github.com/JiangBoCS/Real-Noise-Image-Adjustment-Networks-for-Saliency-aware-Stylistic-Color-Retouch/blob/main/framework.png"
      alt="Picture displays an error."
